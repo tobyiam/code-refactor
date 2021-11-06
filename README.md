@@ -1,4 +1,4 @@
-# HTML CSS Git Challenge: Code Refactor
+## HTML CSS Git Challenge: Code Refactor
 
 # Usage 
 Marketing Agency Website 
